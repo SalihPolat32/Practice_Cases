@@ -1,0 +1,16 @@
+[
+  {
+    "role": "MANAGER",
+    "name": "Ali",
+    "surname": "Yılmaz",
+    "workingHour": 200.0,
+    "maas": 10000
+  },
+  {
+    "role": "OFFICER",
+    "name": "Ayşe",
+    "surname": "Kaya",
+    "workingHour": 100.0,
+    "maas": 5000
+  }
+]
